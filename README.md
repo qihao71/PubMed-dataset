@@ -3,3 +3,4 @@ This is a new benchmark dataset for relation extraction task, which consists of 
 
 300 abstracts about "magnesium deficiency", "migraine attack" and "cancer" as keyword search from PubMed were randomly selected. A typical abstract contained roughly 8-10 sentences and the dataset contains approximately 3000 sentences. From these 300 abstracts, we construct the PubMed dataset by randomly selecting 600 sentences. These sentences were manually annotated by us and a biochemistry graduate student. 1545 biomedical named entities were annotated, including protein, DNA, RNA, body part and cell type. To define whether a word is a biomedical entity, UMLS were used as a dictionary. 996 relationships between these biomedical named entities were annotated.
 
+This new benchmark dataset is publicaly available for evaluating Named Entity Recognition task and relation extraction task.
